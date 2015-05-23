@@ -1,0 +1,12 @@
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\Autofac.dll
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\Autofac.Integration.Wcf.dll
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\WcfService1.dll
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\WcfService1.pdb
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\Autofac.xml
+D:\Sviluppo\WcfService1\ConsoleApplication1\bin\Debug\Autofac.Integration.Wcf.xml
+D:\Sviluppo\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Sviluppo\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Sviluppo\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
